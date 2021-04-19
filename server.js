@@ -5,3 +5,7 @@ function test(){
 function test2(){
     console.log('jackqiang2');
 }
+
+function test_tom(){
+    console.log('tom');
+}
